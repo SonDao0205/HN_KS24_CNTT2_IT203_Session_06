@@ -17,7 +17,6 @@ public class Bai4 {
             this.employeeName = employeeName;
             this.salary = salary;
         }
-
         public void showInfo(){
             System.out.println("----------Employee----------");
             System.out.println("Employee Id: "+employeeId);
